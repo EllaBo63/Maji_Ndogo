@@ -4,8 +4,8 @@ The Maji Ndogo Water Project is a comprehensive analysis designed to improve wat
 
 ### Key Visualizations:
 The dashboard I developed includes visual insights on population served, cost allocation, project completion rates, and wait times by various factors such as day of the week and time of day. 
-![A look at the problem on ground](assets/image-name.jpg)
-![Increasing Crime Rates](assets/image-name.jpg)
+![A look at the problem on ground](https://github.com/EllaBo63/Maji_Ndogo/blob/main/Screenshot%202024-10-28%20160904.png)
+![Increasing Crime Rates](https://github.com/EllaBo63/Maji_Ndogo/blob/main/Screenshot%202024-10-28%20163014.png)
 ### Key features include:
 
 - Population Impact: Displays total population, number of people served, and improvement percentages by region.
@@ -14,7 +14,7 @@ The dashboard I developed includes visual insights on population served, cost al
 - Criminal Activity Context: Visualizes prevalent crimes across regions to inform deployment strategies in potentially high-risk areas.
 These visual insights empower stakeholders to make data-driven decisions about where and how to allocate resources effectively.
 
-![A look on improvement](assets/image-name.jpg)
+![A look on improvement](https://github.com/EllaBo63/Maji_Ndogo/blob/main/Screenshot%202024-10-28%20163628.png)
 
 ### Insights Gained:
 Analysis of the data provided valuable insights into Maji Ndogo's water access landscape:
